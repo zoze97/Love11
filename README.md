@@ -1,7 +1,7 @@
 # 一个简单的计时器
 
 ## 示例网页
-[http://goodwell42.github.io/LoveChan/]
+[http://zoze97.github.io/Love11/]
 
 ## 使用方法
 
